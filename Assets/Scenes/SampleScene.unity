@@ -152,7 +152,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfdca7529b4a2f342a18eb9f144b5a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetPrefab: {fileID: 2348708674858142514, guid: 02d0b79e98fa9bb4083bac5cd3d5fdaa, type: 3}
+  targetPrefab:
+  - {fileID: 2348708674858142514, guid: 02d0b79e98fa9bb4083bac5cd3d5fdaa, type: 3}
+  - {fileID: 2096062141272642517, guid: d9db464cb8e354d76acab488c08dc624, type: 3}
+  - {fileID: 4500415295860315823, guid: cea35ba37be6c44b5ba11278484c45e8, type: 3}
+  - {fileID: 7634611745742854389, guid: 5b0d37a2f82ac42279bab6029f4af8ba, type: 3}
+  - {fileID: 4113665178432648528, guid: 6d3094811fd894eb6850d12d2568f6c2, type: 3}
   cooldown: 7
 --- !u!61 &455202576
 BoxCollider2D:
